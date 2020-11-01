@@ -1,6 +1,6 @@
 # science
 
-Articles published in Science Magazine:
+Articles (205 eLetters and 1 report) published in Science Magazine:
 
 <p>
 206. Expert scientists should know the past lessons from SARS and MERS
