@@ -1,7 +1,21 @@
-# science
+# Nature
 
-Articles (205 eLetters and 1 report) published in Science Magazine:
+<p>
+10. Japan’s government must seek out expert scientists
+<a href="https://www.nature.com/articles/d41586-020-02813-4"> Nature 586, 200 (2020)</a> 
+<p>
 
+# Science
+
+Articles (207 eLetters and 1 report) published in Science Magazine:
+
+<p>
+208. US needs to mitigate the resurged COVID-19 pandemic by the best policy
+<a href="https://science.sciencemag.org/content/370/6518/760/tab-e-letters"> Science (eLetter, 27 Nov. 2020)</a>
+<p>
+207. Public health legal preparedness plays a key role in mitigating the pandemic
+<a href="https://science.sciencemag.org/content/370/6518/760/tab-e-letters"> Science (eLetter, 16 Nov. 2020)</a>
+<p>
 <p>
 206. Expert scientists should know the past lessons from SARS and MERS
 <a href="https://science.sciencemag.org/content/370/6514/303.2/tab-e-letters"> Science (eLetter, 23 Oct. 2020)</a>
