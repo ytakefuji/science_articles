@@ -1,7 +1,7 @@
 # Nature
 
 <p>
-10. Japan’s government must seek out expert scientists
+1. Japan’s government must seek out expert scientists
 <a href="https://www.nature.com/articles/d41586-020-02813-4"> Nature 586, 200 (2020)</a> 
 <p>
 
