@@ -631,4 +631,5 @@ Articles (207 eLetters and 1 report) published in Science Magazine:
 <p>
 1. A near-optimum parallel planarization algorithm, (Sept. 15 1989)
 <a href="http://science.sciencemag.org/content/245/4923/1221">Science, pp.1221-1223</a></b> 
+
 <p>
