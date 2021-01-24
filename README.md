@@ -7,7 +7,7 @@
 
 # Science
 
-Articles (20 eLetters and 1 report) published in Science Magazine:
+Articles (208 eLetters and 1 report) published in Science Magazine:
 <p>
 209. Good debate needs scientific evidences but the world is illogical
 <a href="https://science.sciencemag.org/content/371/6526/213/tab-e-letters#:~:text=Keio"> Science (eLetter, 15 Jan. 2021)</a>
