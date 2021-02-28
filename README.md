@@ -1,4 +1,4 @@
-# Publications in Nature and Science
+# Publications in NEJM, Nature and Science
 
 # NEJM (New England Journal of Medicine)
 <p>
