@@ -5,7 +5,7 @@
 1. 
 <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2101280?fbclid=IwAR3jcuPGHZBDX9mx4fgfe85gpHvqJvoVRoqmknriPgYQT30gzA04CY3ibwc"> NEJM (2021)</a> 
 <p>
-https://www.nejm.org/doi/full/10.1056/NEJMc2101280?fbclid=IwAR3jcuPGHZBDX9mx4fgfe85gpHvqJvoVRoqmknriPgYQT30gzA04CY3ibwc
+
 # Nature
 <p>
 1. Japan’s government must seek out expert scientists
