@@ -14,7 +14,10 @@
 
 # Science
 
-Articles (208 eLetters and 1 report) published in Science Magazine:
+Articles (209 eLetters and 1 report) published in Science Magazine:
+<p>
+210. The US should use the best policy against the COVID-19 pandemic
+<a href="https://science.sciencemag.org/content/371/6534/1081/tab-e-letters"> Science (eLetter, 12 March 2021)</a>
 <p>
 209. Good debate needs scientific evidences but the world is illogical
 <a href="https://science.sciencemag.org/content/371/6526/213/tab-e-letters#:~:text=Keio"> Science (eLetter, 15 Jan. 2021)</a>
